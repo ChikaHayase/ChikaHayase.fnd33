@@ -1,0 +1,35 @@
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+input, button, select {
+
+    margin: 10px 0;
+    padding: 15px;
+    width: 250px;
+}
+
+button {
+    background-color: #9b9b9b;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgba(230, 62, 62, 0.771);
+}
+
+.space{
+    display: flex;
+    background-color: rgb(101, 206, 233);
+    font-size: 30px
+}
+
+.bottons{
+    display: flex;
+}
